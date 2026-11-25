@@ -7,7 +7,6 @@
 
 <!-- studio:split w=60.a -->
 <table>
-  <tr>
     <td width="60%" valign="top">
 
 ### About me
@@ -23,7 +22,6 @@
     <td width="40%" align="center" valign="top">
       <img src="https://github.com/gengardevelopment.png" alt="Avatar" width="100%" />
     </td>
-  </tr>
 </table>
 
 <!-- studio:stack -->
