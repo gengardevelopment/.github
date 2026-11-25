@@ -1,15 +1,21 @@
 <!-- studio:settings user=gengardevelopment theme=auto hl=2 border=hide light=github-light -->
 
 <!-- studio:header -->
-<h1 align="center">Hi, We are Gengar Development 👋</h1>
+<h1 align="center">Hi, I'm Gengar 👋</h1>
 
-<p align="center">Full-stack developers. That like shipping boring, reliable software.</p>
+<p align="center">Full-stack developer. I like shipping boring, reliable software.</p>
+
+<!-- studio:socials -->
+<p align="left">
+  <a href="https://discord.gg/gengardma"><img src="https://raw.githubusercontent.com/gengardevelopment/gengardevelopment/main/profile-assets/badge-discord.svg?style=for-the-badge" alt="Discord" /></a>
+</p>
 
 <!-- studio:split w=60.a -->
 <table>
+  <tr>
     <td width="60%" valign="top">
 
-### About me
+### About us
 
 - Working on Captain 75T firmware
 - Exploring embedded systems, low-level programming, and hardware
@@ -22,7 +28,13 @@
     <td width="40%" align="center" valign="top">
       <img src="https://github.com/gengardevelopment.png" alt="Avatar" width="100%" />
     </td>
+  </tr>
 </table>
+
+<!-- studio:hiring -->
+<p align="center">
+  <a href="https://discord.gg/gengardma"><img src="https://raw.githubusercontent.com/gengardevelopment/gengardevelopment/main/profile-assets/hiring.svg?color=2ea043" alt="We're hiring: see open roles" /></a>
+</p>
 
 <!-- studio:stack -->
 <h2 align="center">Tools I use</h2>
