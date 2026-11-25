@@ -1,9 +1,9 @@
 <!-- studio:settings user=gengardevelopment theme=auto hl=2 border=hide light=github-light -->
 
 <!-- studio:header -->
-<h1 align="center">Hi, I'm Gengar 👋</h1>
+<h1 align="center">Hi, We are Gengar 👋</h1>
 
-<p align="center">Full-stack developer. I like shipping boring, reliable software.</p>
+<p align="center">Full-stack developers. That like shipping boring, reliable software.</p>
 
 <!-- studio:socials -->
 <p align="left">
